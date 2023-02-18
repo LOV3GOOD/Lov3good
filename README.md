@@ -5,7 +5,7 @@
 
 - 👯 Buscando projetos diversos e aprendizado em **JavaScript e Banco de dados**
 
-- 💻 Tenho experiência em **desenvolvimento .Lua de scripts para servidor de fivem com utilização de banco de dados MYSQL.**
+- 💻 Tenho experiência em **desenvolvimento .Lua de scripts para servidor de fivem com utilização de banco de dados sql hospedado na Microsoft AZURE.**
 
 - 📫 Me contate através de: **antonion674@gmail.com**
 
