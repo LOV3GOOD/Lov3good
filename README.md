@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋,Eu sou o Antônio <i>~Lovegood~</i> Neto</h1>
-<h3 align="center">Um programador em construção em back-end e desenvolvimento web.</h3>
+<h3 align="center">Um programador em construção.</h3>
 
 - 🔭 Atualmente eu estou focado em **JavaScript**
 
