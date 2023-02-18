@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente eu estou focado em **JavaScript**
 
-- 👯 Buscando projetos diversos e aprendizado em **JavaScript, C# e Python**
+- 👯 Buscando projetos diversos e aprendizado em **JavaScript, Banco de dados e React**
 
 - 💻 Tenho experiência em **desenvolvimento .Lua de scripts para servidor de fivem com utilização de banco de dados MYSQL.**
 
